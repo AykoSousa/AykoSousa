@@ -13,7 +13,7 @@ Technology Analyst, graduated in systems analysis and development, passionate ab
 - **Automation:** Bash, PowerShell
 - **Database:** MySQL, SQLite, MongoDB
 - **API Development:** Node.js, Express
-- **Artificial Intelligence:** Machine Learning, Regression Models, Classification Models, LangChain
+- **Artificial Intelligence:** Machine Learning, Regression Models, Classification Models, LangChain, NLP, ChatGPT, Gemini, Mistral, Llama
 - **Web Development:** Frontend with Gradio, HTML, CSS, Bootstrap
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
