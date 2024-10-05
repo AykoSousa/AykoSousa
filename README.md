@@ -34,6 +34,6 @@ I hold a degree in **Systems Analysis and Development** and have a passion for *
 - 📊 **Churn Prediction Model**: Applied machine learning techniques to predict customer churn in a classification project.
 
 ## Let's Connect!
-- ![[LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/ayko-sousa-do-nascimento)]
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayko-sousa-do-nascimento)
 
 Feel free to explore my repositories and collaborate on projects! 🚀
