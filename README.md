@@ -30,7 +30,7 @@ Technology Analyst, graduated in systems analysis and development, passionate ab
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 ## Recent Projects
-- 🤖 **Country and Places Recommendation Chatbot**: Using Python and LangChain, the bot suggests travel destinations, restaurants, and tourist spots.
+- 🤖 **Country and Places Recommendation Agent**: Using Python and LangChain, the bot suggests travel destinations, restaurants, and tourist spots.
 - 📊 **Churn Prediction Model**: Applied machine learning techniques to predict customer churn in a classification project.
 
 ## Let's Connect!
