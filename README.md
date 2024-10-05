@@ -1,6 +1,6 @@
 # Hey, I'm Ayko Nascimento! 👋
 
-I hold a degree in **Systems Analysis and Development** and have a passion for **Technology** and **Artificial Intelligence**. My focus is on projects involving automation, machine learning, and developing intelligent solutions to solve real-world problems.
+Technology Analyst, graduated in systems analysis and development, passionate about technology and especially artificial intelligence.
 
 ## About Me
 - 🎯 My interests are centered around **LLMs**, **NLP**, **Machine Learning**, **Chatbot Development**, **Cloud Soluctions** and **Systems Integration**.
