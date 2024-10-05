@@ -15,7 +15,8 @@ I hold a degree in **Systems Analysis and Development** and have a passion for *
 - **API Development:** Node.js, Express
 - **Artificial Intelligence:** Machine Learning, Regression Models, Classification Models, LangChain
 - **Web Development:** Frontend with Gradio, HTML, CSS, Bootstrap
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.JS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
@@ -33,6 +34,6 @@ I hold a degree in **Systems Analysis and Development** and have a passion for *
 - 📊 **Churn Prediction Model**: Applied machine learning techniques to predict customer churn in a classification project.
 
 ## Let's Connect!
-- ![[LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayko-sousa-do-nascimento)
+- ![[LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayko-sousa-do-nascimento)]
 
 Feel free to explore my repositories and collaborate on projects! 🚀
